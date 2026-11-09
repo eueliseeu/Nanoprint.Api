@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Nanoprint.Api/Nanoprint.Api.csproj" />
+  <Project Path="Nanoprint.Application/Nanoprint.Application.csproj" />
+  <Project Path="Nanoprint.Domain/Nanoprint.Domain.csproj" />
+  <Project Path="Nanoprint.Infrastructure/Nanoprint.Infrastructure.csproj" />
+</Solution>
